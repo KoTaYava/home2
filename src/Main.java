@@ -40,14 +40,14 @@ public class Main {
         var oneBoxer = 78.2;
         var twoBoxer = 82.7;
         var sumWeight = oneBoxer + twoBoxer;
-        System.out.println("Общий вес боксеров " + sumWeight + "кг!");
+        System.out.println("Общий вес боксеров " + sumWeight + "кг");
         var differenceWeight = oneBoxer - twoBoxer;
-        System.out.println("Разница в вессе " + differenceWeight + "кг!");
+        System.out.println("Разница в вессе " + differenceWeight + "кг");
         // Объявил переменные двух боксеров присвоил им значение веса после чего узнал общую массу и разницу в массе тел
         var weightSubtraction= twoBoxer - oneBoxer;
-        System.out.println("Разница в весе " + weightSubtraction + "кг!");// при вычитание большего веса на меньший
+        System.out.println("Разница в весе " + weightSubtraction + "кг");// при вычитание большего веса на меньший
         var divisionWeight = twoBoxer % oneBoxer;
-        System.out.println("Разница в весе " + divisionWeight + "кг!"); // деление
+        System.out.println("Разница в весе " + divisionWeight + "кг"); // деление
         var totalHours = 640;
         var normHours = 8;
         var staff = totalHours / normHours;
