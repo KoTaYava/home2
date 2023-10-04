@@ -47,7 +47,7 @@ public class Main {
         var weightSubtraction= twoBoxer - oneBoxer;
         System.out.println("Разница в весе " + weightSubtraction + "кг");// при вычитание большего веса на меньший
         var divisionWeight = twoBoxer % oneBoxer;
-        System.out.println("Разница в весе " + divisionWeight + "кг"); // деление
+        System.out.println("Разница в весе " + divisionWeight + "кг!"); // деление
         var totalHours = 640;
         var normHours = 8;
         var staff = totalHours / normHours;
